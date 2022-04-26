@@ -1,6 +1,6 @@
 [submodule "googletest"]
 	path = third_party/googletest
-	url = https://github.com/google/googletest
+	url = https://github.com/telematixsw/googletest.git
 [submodule "cpuinfo"]
 	path = third_party/cpuinfo
-	url = https://github.com/pytorch/cpuinfo
+	url = https://github.com/telematixsw/cpuinfo.git
